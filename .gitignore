@@ -1,0 +1,25 @@
+# Mac & system files
+.DS_Store
+
+# Virtual environment
+Fifa-venv/
+
+# Checkpoint folders
+.ipynb_checkpoints/
+
+# Data & models
+*.h5
+*.sqlite
+*.RData
+*.csv
+*.zip
+
+# Documents & clutter
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+*.png
+
+# Python cache
+__pycache__/
